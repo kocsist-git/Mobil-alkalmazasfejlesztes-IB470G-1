@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Asvany</string>
+    <string name="cart_notification_channel_name">Kosár értesítés</string>
+    <string name="cart_notification_channel_description">Termékek maradtak a kosárban</string>
+    <string name="cart_notification_title">Kosár értesítés</string>
+    <string name="cart_notification_content">A kosárban még vannak termékek. Ne felejtsd el őket!</string>
+</resources>
