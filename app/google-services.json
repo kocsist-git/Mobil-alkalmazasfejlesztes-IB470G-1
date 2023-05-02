@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "107613427904",
+    "project_id": "larzo-99eb7",
+    "storage_bucket": "larzo-99eb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107613427904:android:5ec00ef25fe7d0904eb525",
+        "android_client_info": {
+          "package_name": "hu.larzo.asvany"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107613427904-9erhdqbd17oqv2tmobho3cagl76dhkmo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hu.larzo.asvany",
+            "certificate_hash": "1479e256526dde33744147c388d3cf100aa7f5b4"
+          }
+        },
+        {
+          "client_id": "107613427904-48fm5gg89a2d5hidg0ui3486i85euffm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRHPg6YgnVCrzqdi5FHxnSqugtsox9QpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107613427904-288d6ca2mbqmedlk4osvv16a83vtdh8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
